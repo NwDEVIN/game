@@ -113,7 +113,7 @@
             color: #ff6a7fcc;    
         }
 
-#mobileMessage {
+        #mobileMessage {
             position: fixed;
             top: 680px;
             left: 15%;
@@ -146,6 +146,7 @@
 
         .checkbox-label {
             background-color: #8098ff;
+            color: #ffe740;
             width: 45px;
             height: 20px;
             border-radius: 50px;
