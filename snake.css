@@ -85,8 +85,8 @@
             cursor: pointer;
             display: none;
             position: fixed;
-            top: 30%;
-            left: 50%;
+            top: 355px;
+            left: 260px;
             transform: translate(-50%, -50%);
             color: white;
             background-color: #ffffff01;
@@ -157,16 +157,8 @@
             align-items: center;
         }
 
-        .fa-moon {
-            color: #f1c40f;
-        }
-
-        .fa-sun {
-            color: #f39c12;
-        }
-
         .checkbox-label .ball {
-            background-color: #fff;
+            background-color: #8098ff;
             width: 22px;
             height: 22px;
             position: absolute;
@@ -178,10 +170,6 @@
 
         .checkbox:checked + .checkbox-label .ball {
             transform: translateX(29px);
-        }
-
-        .checkbox:checked + .checkbox-label .ball {
-            background-color: #000;
         }
 
         body.dark #arrowKeys {
