@@ -86,7 +86,7 @@
             display: none;
             position: fixed;
             top: 355px;
-            left: 260px;
+            right: 260px;
             transform: translate(-50%, -50%);
             color: white;
             background-color: #ffffff01;
