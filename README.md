@@ -13,6 +13,10 @@ A classic Snake game implemented in JavaScript with HTML5 Canvas. The game featu
 - **Score Tracking**: Track and display the player's score.
 - **Switch to Dark Mode**: Toggle between dark mode and light mode for better visibility.
 
-### License
+## Live Demo
+
+Play the game online at [GitHub Pages](https://nwdevin.github.io/game/snake.html).
+
+## License
 
 This project is not licensed. All rights are reserved. You may not use, distribute, or modify this code without permission.
