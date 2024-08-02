@@ -2,8 +2,8 @@
 
 A classic Snake game implemented in JavaScript with HTML5 Canvas. The game features start, pause, restart, dark mode, and sound toggling functionalities.
 
-![Game Screenshot 1](https://github.com/user-attachments/assets/9650a894-08c2-49da-97f2-4a53076ffacc)
-![Game Screenshot 2](https://github.com/user-attachments/assets/220f1f05-6801-4f00-ab82-397f333d15dd)
+![1000007176](https://github.com/user-attachments/assets/668d9fc4-71e8-419c-a491-c45f605ae567)
+
 
 ## Features
 
@@ -19,4 +19,4 @@ Play the game online at [GitHub Pages](https://nwdevin.github.io/game/snake.html
 
 ## License
 
-This project is not licensed. All rights are reserved. You may not use, distribute, or modify this code without permission.
+All rights are reserved. You may not use, distribute, or modify this code without permission.
